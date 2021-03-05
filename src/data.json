@@ -1,0 +1,51 @@
+{
+    "products":[
+        {
+         "_id":"dress1",
+         "image":"/images/dress1.jpg",
+         "title":"midi sundress with shirring detail",
+         "description":"latest trends",
+         "availableSizes":["X","L","XL","XXL"],
+         "price":300
+        },
+        {
+            "_id":"dress2",
+            "image":"/images/dress2.jpg",
+            "title":"midi sundress with shirring detail",
+            "description":"latest trends",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+           },
+           {
+            "_id":"dress3",
+            "image":"/images/dress3.jpg",
+            "title":"midi sundress with shirring detail",
+            "description":"latest trends",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+           },
+           {
+            "_id":"dress4",
+            "image":"/images/dress4.jpg",
+            "title":"midi sundress with shirring detail",
+            "description":"latest trends",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+           },
+           {
+            "_id":"dress5",
+            "image":"/images/dress5.jpg",
+            "title":"midi sundress with shirring detail",
+            "description":"latest trends",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+           },
+           {
+            "_id":"dress6",
+            "image":"/images/dress6.jpg",
+            "title":"midi sundress with shirring detail",
+            "description":"latest trends",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":300
+           }
+        ]}
