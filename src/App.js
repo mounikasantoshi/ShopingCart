@@ -1,11 +1,15 @@
 import "./App.css";
 import TopNav from "./components/TopNav";
+import { Provider } from "react-redux";
+import store from "./redux/Store";
 
 function App() {
   return (
-    <div>
-      <TopNav />
-    </div>
+    <Provider store={store}>
+      <div>
+        <TopNav />
+      </div>
+    </Provider>
   );
 }
 
